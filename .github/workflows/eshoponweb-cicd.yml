@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: e4eb0c20-d264-43f8-9f38-cd1a188072a8
-  WEBAPP-NAME: az400-webapp-nogarada
+  WEBAPP-NAME: az400-webapp-nogaradatop
 
 
 jobs:
